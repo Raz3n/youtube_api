@@ -1,3 +1,5 @@
+Making use of youtube api to create a video search player with react.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
